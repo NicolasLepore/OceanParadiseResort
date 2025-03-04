@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OceanParadiseResort.Bedrooms.props" />
+</Project>

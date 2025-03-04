@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OceanParadiseResort.Bedrooms.props" />
+</Project>

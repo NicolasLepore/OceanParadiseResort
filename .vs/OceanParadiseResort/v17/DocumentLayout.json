@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D91835-2E5A-4710-AF06-1ADD83D6183B}|OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj|c:\\users\\nigam\\source\\repos\\oceanparadiseresort\\oceanparadiseresort.customers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D91835-2E5A-4710-AF06-1ADD83D6183B}|OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj|solutionrelative:oceanparadiseresort.customers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D91835-2E5A-4710-AF06-1ADD83D6183B}|OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj|c:\\users\\nigam\\source\\repos\\oceanparadiseresort\\oceanparadiseresort.customers\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D91835-2E5A-4710-AF06-1ADD83D6183B}|OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj|solutionrelative:oceanparadiseresort.customers\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D91835-2E5A-4710-AF06-1ADD83D6183B}|OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj|c:\\users\\nigam\\source\\repos\\oceanparadiseresort\\oceanparadiseresort.customers\\data\\appusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D91835-2E5A-4710-AF06-1ADD83D6183B}|OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj|solutionrelative:oceanparadiseresort.customers\\data\\appusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBBC608-8506-4D61-84CF-B7CA08F72827}|OceanParadiseResort.Bedrooms\\OceanParadiseResort.Bedrooms.csproj|c:\\users\\nigam\\source\\repos\\oceanparadiseresort\\oceanparadiseresort.bedrooms\\models\\bedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBBC608-8506-4D61-84CF-B7CA08F72827}|OceanParadiseResort.Bedrooms\\OceanParadiseResort.Bedrooms.csproj|solutionrelative:oceanparadiseresort.bedrooms\\models\\bedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUserContext.cs",
+              "DocumentMoniker": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\Data\\AppUserContext.cs",
+              "RelativeDocumentMoniker": "OceanParadiseResort.Customers\\Data\\AppUserContext.cs",
+              "ToolTip": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\Data\\AppUserContext.cs",
+              "RelativeToolTip": "OceanParadiseResort.Customers\\Data\\AppUserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:47:55.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "OceanParadiseResort.Customers\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "OceanParadiseResort.Customers\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:32:16.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\Program.cs",
+              "RelativeDocumentMoniker": "OceanParadiseResort.Customers\\Program.cs",
+              "ToolTip": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\Program.cs",
+              "RelativeToolTip": "OceanParadiseResort.Customers\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:37:27.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bedroom.cs",
+              "DocumentMoniker": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Bedrooms\\Models\\Bedroom.cs",
+              "RelativeDocumentMoniker": "OceanParadiseResort.Bedrooms\\Models\\Bedroom.cs",
+              "ToolTip": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Bedrooms\\Models\\Bedroom.cs",
+              "RelativeToolTip": "OceanParadiseResort.Bedrooms\\Models\\Bedroom.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T04:29:15.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
