@@ -1,5 +1,4 @@
-using OceanParadiseResort.Bedrooms.Data;
-using OceanParadiseResort.Bedrooms.Models;
+using OceanParadiseResort.Bedrooms.Infra.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

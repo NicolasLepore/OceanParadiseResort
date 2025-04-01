@@ -12,7 +12,7 @@ namespace OceanParadiseResort.Customers.Profiles
                 .ForMember(c => c.Birthday, opt =>
                 {
                     opt.MapFrom(dto => DateOnly.FromDateTime(dto.Birthday));
-                }); 
+                });
         }
     }
 }

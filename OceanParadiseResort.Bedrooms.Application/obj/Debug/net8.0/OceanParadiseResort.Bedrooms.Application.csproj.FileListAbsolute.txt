@@ -1,0 +1,16 @@
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\bin\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.deps.json
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\bin\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.dll
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\bin\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.pdb
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\bin\Debug\net8.0\OceanParadiseResort.Bedrooms.Domain.dll
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\bin\Debug\net8.0\OceanParadiseResort.Bedrooms.Domain.pdb
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.csproj.AssemblyReference.cache
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.AssemblyInfoInputs.cache
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.AssemblyInfo.cs
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.csproj.CoreCompileInputs.cache
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.sourcelink.json
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanPar.4391421D.Up2Date
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.dll
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\refint\OceanParadiseResort.Bedrooms.Application.dll
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\OceanParadiseResort.Bedrooms.Application.pdb
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Bedrooms.Application\obj\Debug\net8.0\ref\OceanParadiseResort.Bedrooms.Application.dll

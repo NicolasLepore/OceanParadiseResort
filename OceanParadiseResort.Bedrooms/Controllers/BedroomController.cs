@@ -1,11 +1,9 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using OceanParadiseResort.Bedrooms.Data;
-using OceanParadiseResort.Bedrooms.Data.Dtos;
-using OceanParadiseResort.Bedrooms.Models;
-using System.Collections.Immutable;
-using System.Net;
+using OceanParadiseResort.Bedrooms.Application.Dtos;
+using OceanParadiseResort.Bedrooms.Domain.Models;
+using OceanParadiseResort.Bedrooms.Infra.Data;
 
 namespace OceanParadiseResort.Bedrooms.Controllers
 {

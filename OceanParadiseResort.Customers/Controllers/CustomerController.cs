@@ -36,7 +36,7 @@ namespace OceanParadiseResort.Customers.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> Login([FromBody] LoginCustomerDto dto)
         {
-            var token = await _signInManager.SignIn(dto);
+            var token = await _signInManager.SignInAsync(dto);
             return Ok(token);
 
         }

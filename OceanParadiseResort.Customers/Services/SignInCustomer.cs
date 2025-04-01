@@ -16,7 +16,7 @@ namespace OceanParadiseResort.Customers.Services
             _tokenService = tokenService;
         }
 
-        public async Task<string> SignIn(LoginCustomerDto dto)
+        public async Task<string> SignInAsync(LoginCustomerDto dto)
         {
             var result = await _signInManager.PasswordSignInAsync(dto.Username!, dto.Password!, false, false);
 

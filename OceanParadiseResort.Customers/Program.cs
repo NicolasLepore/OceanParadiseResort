@@ -5,6 +5,7 @@ using Microsoft.IdentityModel.Tokens;
 using OceanParadiseResort.Customers.Data;
 using OceanParadiseResort.Customers.Models;
 using OceanParadiseResort.Customers.Services;
+using OceanParadiseResort.Customers.ValueObjects;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);

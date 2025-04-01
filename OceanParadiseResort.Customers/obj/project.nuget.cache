@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ktWjdTU5s85zpNu7HRH5vyiCaWfXicUuuR97WkXAonYup9j8G6omlGI+psGv0ahA8krUC7op0XSQG1qTjtsKhA==",
+  "dgSpecHash": "uVXekfz0uGnDB7V3KMOorncFTkQW5qb+P1NM1m+/7syLtfK0Zv38uofoXn7zo5ddzdygz8gBySOYSgdPx5GPKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj",
+  "projectFilePath": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\OceanParadiseResort.Customers.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nigam\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\nigam\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

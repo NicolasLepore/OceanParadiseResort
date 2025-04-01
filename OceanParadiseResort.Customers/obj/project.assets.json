@@ -3141,9 +3141,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj",
-      "projectName": "OceanParadiseResort.Customers",
-      "projectPath": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\OceanParadiseResort.Customers.csproj",
+      "projectUniqueName": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\OceanParadiseResort.Customers.API.csproj",
+      "projectName": "OceanParadiseResort.Customers.API",
+      "projectPath": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\OceanParadiseResort.Customers.API.csproj",
       "packagesPath": "C:\\Users\\nigam\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nigam\\source\\repos\\OceanParadiseResort\\OceanParadiseResort.Customers\\obj\\",
       "projectStyle": "PackageReference",

@@ -123,3 +123,4 @@ C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Customers\bi
 C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Customers\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Customers\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Customers\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nigam\source\repos\OceanParadiseResort\OceanParadiseResort.Customers\obj\Debug\net8.0\OceanParadiseResort.Customers.sourcelink.json
